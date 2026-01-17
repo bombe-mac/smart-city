@@ -1,0 +1,11 @@
+.venv/
+
+*.shp
+
+*.dbf
+
+*.prj
+
+*.shp.xml
+
+*.shx
